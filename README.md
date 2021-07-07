@@ -6,11 +6,11 @@
     <ul>
         <li>
             Home Page : Displays the title and first few words of the published Blogs, has Read more option to view and read full blog content in a seprate page as show.
-            <a href="https://ibb.co/W02CSMN"><img src="https://i.ibb.co/tzJRyvw/home.jpg" alt="home" border="0"></a>
+            <br><a href="https://ibb.co/W02CSMN"><img src="https://i.ibb.co/tzJRyvw/home.jpg" alt="home" border="0"></a>
         </li>
         <li>
             Compose Page: Allows users to publish their blogs, when published will be show in the home page.
-            <a href="https://ibb.co/3yJ0PjS"><img src="https://i.ibb.co/mCxHP2h/compose.jpg" alt="compose" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/poems'>short poems for couples</a><br />
+            <a href="https://ibb.co/3yJ0PjS"><img src="https://i.ibb.co/mCxHP2h/compose.jpg" alt="compose" border="0"></a><br />
         </li>
         <li>
             Read More : A Page when clicked on "Read More" in home page views the entire blog in a new page.

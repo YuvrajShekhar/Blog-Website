@@ -29,7 +29,4 @@
         <li>
            Start the server by the command : "node app.js"
         </li>
-        <li>
-            
-        </li>
-    </ul>
+ </ul>

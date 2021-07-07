@@ -21,7 +21,7 @@
 
 <h3><b>This App is built using Node and Express JS.</b></h3>
 
-<h5>Installation Guide/h5>
+<h5>Installation Guide</h5>
     <ul>
         <li>
         Install all node modules by the command : "npm i"
